@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm San Hariharan, A passionate ML Developer from India<br>I'm currently a first year computer science undergraduate.
+I'm San Hariharan, A passionate ML Developer from India<br>I'm currently a first year computer science undergraduate. I also love chess! I'm a national level chess player with 1782 elo rating.
 
 
 # 💻 Tech Stack:
